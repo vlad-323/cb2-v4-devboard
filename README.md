@@ -11,4 +11,5 @@ Board have 4 cores CPU Allwinner H3, 256 Mb RAM, 256 Mb NAND (?). Not very power
 2. Write it to card (BalenaEtcher, dd, etc)
 3. Insert card in board, power on device
 4. Now you can search device in your LAN and connect via SSH or connect directly to board via console UART pins
-5. After creating users, entering password and other, install armbian-config
+5. After creating users, entering password and other, install and run armbian-config
+6. In armbian-config go to system->hardware and select: analog audio, i2c0, i2c1, i2c2, usbhost0,1,2,3
