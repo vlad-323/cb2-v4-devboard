@@ -19,3 +19,9 @@ Board have 4 cores CPU Allwinner H3, 256 Mb RAM, 256 Mb NAND (?). Not very power
 - 3 connectors to hash boards have same I2C bus with address i2c0
 - 4 holes near Flash maybe USB (hope, I'll test it soon)
 - 2 small circles near CPU bottom - analog audio
+  
+![IMG_20240917_025436](https://github.com/user-attachments/assets/2730045b-e5b3-4ed8-a639-077973e3fed5)
+
+Hash connectors pinout
+
+![image](https://github.com/user-attachments/assets/c526de43-335e-497a-acf8-281298556ced)
