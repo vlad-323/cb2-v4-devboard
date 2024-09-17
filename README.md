@@ -27,8 +27,12 @@ Hash connectors pinout
 ![image](https://github.com/user-attachments/assets/c526de43-335e-497a-acf8-281298556ced)
 
 # Proof of concept
-Connected SSD1306 LCD show uptime, IP, and other stuff:
+Connected SSD1306 I2C LCD show uptime, IP, and other stuff:
 ![photo_5425141846809632964_y](https://github.com/user-attachments/assets/970009f7-efbf-47e5-84a2-b8b978a3c003)
+
+Connected USB Flash drive to board:
+![photo_5426883060911169441_y](https://github.com/user-attachments/assets/4dba3b18-bf89-4205-a77f-4c123a5c12ac)
+![Снимок экрана 2024-09-18 000635](https://github.com/user-attachments/assets/be9f63e5-d855-4049-bc09-93af4fbb101e)
 
 # Useful links
 - https://github.com/andrejrcarvalho/OrangePi_SSD1306/tree/main
