@@ -25,3 +25,7 @@ Board have 4 cores CPU Allwinner H3, 256 Mb RAM, 256 Mb NAND (?). Not very power
 Hash connectors pinout
 
 ![image](https://github.com/user-attachments/assets/c526de43-335e-497a-acf8-281298556ced)
+
+# Proof of concept
+Connected SSD1306 LCD show uptime, IP, and other stuff:
+![photo_5425141846809632964_y](https://github.com/user-attachments/assets/970009f7-efbf-47e5-84a2-b8b978a3c003)
