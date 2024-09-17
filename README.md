@@ -29,3 +29,8 @@ Hash connectors pinout
 # Proof of concept
 Connected SSD1306 LCD show uptime, IP, and other stuff:
 ![photo_5425141846809632964_y](https://github.com/user-attachments/assets/970009f7-efbf-47e5-84a2-b8b978a3c003)
+
+# Useful links
+- https://github.com/andrejrcarvalho/OrangePi_SSD1306/tree/main
+- https://linux-sunxi.org/images/4/4b/Allwinner_H3_Datasheet_V1.2.pdf
+- https://github.com/zhaolei/WiringOP
