@@ -2,7 +2,7 @@
 Tips and tricks how to use Whatsminer M20 H3 (CB2-V4) control board with generic Linux (Armbian)
 
 # What can we do with it ?
-Board have 2 I2C ports, analog audio output (need to solder wires), 4 UARTS (1 for console, other not tested yet), and maybe 1 USB host (not tested yet).
+Board have 2 I2C ports, analog audio output (need to solder wires), 4 UARTS (1 for console, other not tested yet), and 1 USB host.
 So we can load Armbian from MicroSD card and play music, control external I2C, UART devices.
 Board have 4 cores CPU Allwinner H3, 256 Mb RAM, 256 Mb NAND (?). Not very powerful, but now it can be cost for few $.
 
